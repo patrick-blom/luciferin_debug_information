@@ -1,0 +1,1173 @@
+---
+numberOfCPUThreads: 1
+captureMethod: "XIMAGESRC"
+serialPort: "GW_ESP8266_Samsung"
+baudRate: "500000"
+defaultLedMatrix: "FullScreen"
+autoDetectBlackBars: false
+topLed: 32
+leftLed: 18
+rightLed: 18
+bottomLeftLed: 13
+bottomRightLed: 13
+bottomRowLed: 26
+orientation: "Anticlockwise"
+timeout: 2000
+screenResX: 1920
+screenResY: 1080
+osScaling: 100
+gamma: 2.2
+whiteTemperature: 3
+mqttServer: "tcp://192.168.178.20:1883"
+mqttTopic: "glowwormluciferin_samsung"
+mqttUsername: "patrick"
+mqttPwd: "phfu064X"
+mqttEnable: true
+mqttStream: true
+checkForUpdates: true
+autoStartCapture: true
+eyeCare: false
+toggleLed: false
+desiredFramerate: "30"
+colorChooser: "0,0,255,255"
+brightness: 255
+ledStartOffset: 0
+splitBottomRow: true
+startWithSystem: false
+multiMonitor: 2
+monitorNumber: 2
+syncCheck: true
+ledMatrix:
+  FullScreen:
+    1:
+      x: 1129
+      "y": 972
+      dimension: 52
+    2:
+      x: 1191
+      "y": 972
+      dimension: 52
+    3:
+      x: 1254
+      "y": 972
+      dimension: 52
+    4:
+      x: 1317
+      "y": 972
+      dimension: 52
+    5:
+      x: 1379
+      "y": 972
+      dimension: 52
+    6:
+      x: 1442
+      "y": 972
+      dimension: 52
+    7:
+      x: 1505
+      "y": 972
+      dimension: 52
+    8:
+      x: 1568
+      "y": 972
+      dimension: 52
+    9:
+      x: 1630
+      "y": 972
+      dimension: 52
+    10:
+      x: 1693
+      "y": 972
+      dimension: 52
+    11:
+      x: 1756
+      "y": 972
+      dimension: 52
+    12:
+      x: 1819
+      "y": 972
+      dimension: 52
+    13:
+      x: 1882
+      "y": 972
+      dimension: 52
+    14:
+      x: 1800
+      "y": 924
+      dimension: 38
+    15:
+      x: 1800
+      "y": 876
+      dimension: 38
+    16:
+      x: 1800
+      "y": 828
+      dimension: 38
+    17:
+      x: 1800
+      "y": 780
+      dimension: 38
+    18:
+      x: 1800
+      "y": 732
+      dimension: 38
+    19:
+      x: 1800
+      "y": 684
+      dimension: 38
+    20:
+      x: 1800
+      "y": 636
+      dimension: 38
+    21:
+      x: 1800
+      "y": 588
+      dimension: 38
+    22:
+      x: 1800
+      "y": 540
+      dimension: 38
+    23:
+      x: 1800
+      "y": 492
+      dimension: 38
+    24:
+      x: 1800
+      "y": 444
+      dimension: 38
+    25:
+      x: 1800
+      "y": 396
+      dimension: 38
+    26:
+      x: 1800
+      "y": 348
+      dimension: 38
+    27:
+      x: 1800
+      "y": 300
+      dimension: 38
+    28:
+      x: 1800
+      "y": 252
+      dimension: 38
+    29:
+      x: 1800
+      "y": 204
+      dimension: 38
+    30:
+      x: 1800
+      "y": 156
+      dimension: 38
+    31:
+      x: 1800
+      "y": 108
+      dimension: 38
+    32:
+      x: 1860
+      "y": 8
+      dimension: 50
+    33:
+      x: 1800
+      "y": 8
+      dimension: 50
+    34:
+      x: 1740
+      "y": 8
+      dimension: 50
+    35:
+      x: 1680
+      "y": 8
+      dimension: 50
+    36:
+      x: 1620
+      "y": 8
+      dimension: 50
+    37:
+      x: 1560
+      "y": 8
+      dimension: 50
+    38:
+      x: 1500
+      "y": 8
+      dimension: 50
+    39:
+      x: 1440
+      "y": 8
+      dimension: 50
+    40:
+      x: 1380
+      "y": 8
+      dimension: 50
+    41:
+      x: 1320
+      "y": 8
+      dimension: 50
+    42:
+      x: 1260
+      "y": 8
+      dimension: 50
+    43:
+      x: 1200
+      "y": 8
+      dimension: 50
+    44:
+      x: 1140
+      "y": 8
+      dimension: 50
+    45:
+      x: 1080
+      "y": 8
+      dimension: 50
+    46:
+      x: 1020
+      "y": 8
+      dimension: 50
+    47:
+      x: 960
+      "y": 8
+      dimension: 50
+    48:
+      x: 900
+      "y": 8
+      dimension: 50
+    49:
+      x: 840
+      "y": 8
+      dimension: 50
+    50:
+      x: 780
+      "y": 8
+      dimension: 50
+    51:
+      x: 720
+      "y": 8
+      dimension: 50
+    52:
+      x: 660
+      "y": 8
+      dimension: 50
+    53:
+      x: 600
+      "y": 8
+      dimension: 50
+    54:
+      x: 540
+      "y": 8
+      dimension: 50
+    55:
+      x: 480
+      "y": 8
+      dimension: 50
+    56:
+      x: 420
+      "y": 8
+      dimension: 50
+    57:
+      x: 360
+      "y": 8
+      dimension: 50
+    58:
+      x: 300
+      "y": 8
+      dimension: 50
+    59:
+      x: 240
+      "y": 8
+      dimension: 50
+    60:
+      x: 180
+      "y": 8
+      dimension: 50
+    61:
+      x: 120
+      "y": 8
+      dimension: 50
+    62:
+      x: 60
+      "y": 8
+      dimension: 50
+    63:
+      x: 0
+      "y": 8
+      dimension: 50
+    64:
+      x: 70
+      "y": 108
+      dimension: 38
+    65:
+      x: 70
+      "y": 156
+      dimension: 38
+    66:
+      x: 70
+      "y": 204
+      dimension: 38
+    67:
+      x: 70
+      "y": 252
+      dimension: 38
+    68:
+      x: 70
+      "y": 300
+      dimension: 38
+    69:
+      x: 70
+      "y": 348
+      dimension: 38
+    70:
+      x: 70
+      "y": 396
+      dimension: 38
+    71:
+      x: 70
+      "y": 444
+      dimension: 38
+    72:
+      x: 70
+      "y": 492
+      dimension: 38
+    73:
+      x: 70
+      "y": 540
+      dimension: 38
+    74:
+      x: 70
+      "y": 588
+      dimension: 38
+    75:
+      x: 70
+      "y": 636
+      dimension: 38
+    76:
+      x: 70
+      "y": 684
+      dimension: 38
+    77:
+      x: 70
+      "y": 732
+      dimension: 38
+    78:
+      x: 70
+      "y": 780
+      dimension: 38
+    79:
+      x: 70
+      "y": 828
+      dimension: 38
+    80:
+      x: 70
+      "y": 876
+      dimension: 38
+    81:
+      x: 70
+      "y": 924
+      dimension: 38
+    82:
+      x: 0
+      "y": 972
+      dimension: 52
+    83:
+      x: 62
+      "y": 972
+      dimension: 52
+    84:
+      x: 125
+      "y": 972
+      dimension: 52
+    85:
+      x: 188
+      "y": 972
+      dimension: 52
+    86:
+      x: 250
+      "y": 972
+      dimension: 52
+    87:
+      x: 313
+      "y": 972
+      dimension: 52
+    88:
+      x: 376
+      "y": 972
+      dimension: 52
+    89:
+      x: 439
+      "y": 972
+      dimension: 52
+    90:
+      x: 501
+      "y": 972
+      dimension: 52
+    91:
+      x: 564
+      "y": 972
+      dimension: 52
+    92:
+      x: 627
+      "y": 972
+      dimension: 52
+    93:
+      x: 690
+      "y": 972
+      dimension: 52
+    94:
+      x: 753
+      "y": 972
+      dimension: 52
+  Letterbox:
+    1:
+      x: 1129
+      "y": 864
+      dimension: 52
+    2:
+      x: 1191
+      "y": 864
+      dimension: 52
+    3:
+      x: 1254
+      "y": 864
+      dimension: 52
+    4:
+      x: 1317
+      "y": 864
+      dimension: 52
+    5:
+      x: 1379
+      "y": 864
+      dimension: 52
+    6:
+      x: 1442
+      "y": 864
+      dimension: 52
+    7:
+      x: 1505
+      "y": 864
+      dimension: 52
+    8:
+      x: 1568
+      "y": 864
+      dimension: 52
+    9:
+      x: 1630
+      "y": 864
+      dimension: 52
+    10:
+      x: 1693
+      "y": 864
+      dimension: 52
+    11:
+      x: 1756
+      "y": 864
+      dimension: 52
+    12:
+      x: 1819
+      "y": 864
+      dimension: 52
+    13:
+      x: 1882
+      "y": 864
+      dimension: 52
+    14:
+      x: 1800
+      "y": 828
+      dimension: 26
+    15:
+      x: 1800
+      "y": 792
+      dimension: 26
+    16:
+      x: 1800
+      "y": 756
+      dimension: 26
+    17:
+      x: 1800
+      "y": 720
+      dimension: 26
+    18:
+      x: 1800
+      "y": 684
+      dimension: 26
+    19:
+      x: 1800
+      "y": 648
+      dimension: 26
+    20:
+      x: 1800
+      "y": 612
+      dimension: 26
+    21:
+      x: 1800
+      "y": 576
+      dimension: 26
+    22:
+      x: 1800
+      "y": 540
+      dimension: 26
+    23:
+      x: 1800
+      "y": 504
+      dimension: 26
+    24:
+      x: 1800
+      "y": 468
+      dimension: 26
+    25:
+      x: 1800
+      "y": 432
+      dimension: 26
+    26:
+      x: 1800
+      "y": 396
+      dimension: 26
+    27:
+      x: 1800
+      "y": 360
+      dimension: 26
+    28:
+      x: 1800
+      "y": 324
+      dimension: 26
+    29:
+      x: 1800
+      "y": 288
+      dimension: 26
+    30:
+      x: 1800
+      "y": 252
+      dimension: 26
+    31:
+      x: 1800
+      "y": 216
+      dimension: 26
+    32:
+      x: 1860
+      "y": 116
+      dimension: 50
+    33:
+      x: 1800
+      "y": 116
+      dimension: 50
+    34:
+      x: 1740
+      "y": 116
+      dimension: 50
+    35:
+      x: 1680
+      "y": 116
+      dimension: 50
+    36:
+      x: 1620
+      "y": 116
+      dimension: 50
+    37:
+      x: 1560
+      "y": 116
+      dimension: 50
+    38:
+      x: 1500
+      "y": 116
+      dimension: 50
+    39:
+      x: 1440
+      "y": 116
+      dimension: 50
+    40:
+      x: 1380
+      "y": 116
+      dimension: 50
+    41:
+      x: 1320
+      "y": 116
+      dimension: 50
+    42:
+      x: 1260
+      "y": 116
+      dimension: 50
+    43:
+      x: 1200
+      "y": 116
+      dimension: 50
+    44:
+      x: 1140
+      "y": 116
+      dimension: 50
+    45:
+      x: 1080
+      "y": 116
+      dimension: 50
+    46:
+      x: 1020
+      "y": 116
+      dimension: 50
+    47:
+      x: 960
+      "y": 116
+      dimension: 50
+    48:
+      x: 900
+      "y": 116
+      dimension: 50
+    49:
+      x: 840
+      "y": 116
+      dimension: 50
+    50:
+      x: 780
+      "y": 116
+      dimension: 50
+    51:
+      x: 720
+      "y": 116
+      dimension: 50
+    52:
+      x: 660
+      "y": 116
+      dimension: 50
+    53:
+      x: 600
+      "y": 116
+      dimension: 50
+    54:
+      x: 540
+      "y": 116
+      dimension: 50
+    55:
+      x: 480
+      "y": 116
+      dimension: 50
+    56:
+      x: 420
+      "y": 116
+      dimension: 50
+    57:
+      x: 360
+      "y": 116
+      dimension: 50
+    58:
+      x: 300
+      "y": 116
+      dimension: 50
+    59:
+      x: 240
+      "y": 116
+      dimension: 50
+    60:
+      x: 180
+      "y": 116
+      dimension: 50
+    61:
+      x: 120
+      "y": 116
+      dimension: 50
+    62:
+      x: 60
+      "y": 116
+      dimension: 50
+    63:
+      x: 0
+      "y": 116
+      dimension: 50
+    64:
+      x: 70
+      "y": 216
+      dimension: 26
+    65:
+      x: 70
+      "y": 252
+      dimension: 26
+    66:
+      x: 70
+      "y": 288
+      dimension: 26
+    67:
+      x: 70
+      "y": 324
+      dimension: 26
+    68:
+      x: 70
+      "y": 360
+      dimension: 26
+    69:
+      x: 70
+      "y": 396
+      dimension: 26
+    70:
+      x: 70
+      "y": 432
+      dimension: 26
+    71:
+      x: 70
+      "y": 468
+      dimension: 26
+    72:
+      x: 70
+      "y": 504
+      dimension: 26
+    73:
+      x: 70
+      "y": 540
+      dimension: 26
+    74:
+      x: 70
+      "y": 576
+      dimension: 26
+    75:
+      x: 70
+      "y": 612
+      dimension: 26
+    76:
+      x: 70
+      "y": 648
+      dimension: 26
+    77:
+      x: 70
+      "y": 684
+      dimension: 26
+    78:
+      x: 70
+      "y": 720
+      dimension: 26
+    79:
+      x: 70
+      "y": 756
+      dimension: 26
+    80:
+      x: 70
+      "y": 792
+      dimension: 26
+    81:
+      x: 70
+      "y": 828
+      dimension: 26
+    82:
+      x: 0
+      "y": 864
+      dimension: 52
+    83:
+      x: 62
+      "y": 864
+      dimension: 52
+    84:
+      x: 125
+      "y": 864
+      dimension: 52
+    85:
+      x: 188
+      "y": 864
+      dimension: 52
+    86:
+      x: 250
+      "y": 864
+      dimension: 52
+    87:
+      x: 313
+      "y": 864
+      dimension: 52
+    88:
+      x: 376
+      "y": 864
+      dimension: 52
+    89:
+      x: 439
+      "y": 864
+      dimension: 52
+    90:
+      x: 501
+      "y": 864
+      dimension: 52
+    91:
+      x: 564
+      "y": 864
+      dimension: 52
+    92:
+      x: 627
+      "y": 864
+      dimension: 52
+    93:
+      x: 690
+      "y": 864
+      dimension: 52
+    94:
+      x: 753
+      "y": 864
+      dimension: 52
+  Pillarbox:
+    1:
+      x: 1085
+      "y": 918
+      dimension: 33
+    2:
+      x: 1128
+      "y": 918
+      dimension: 33
+    3:
+      x: 1172
+      "y": 918
+      dimension: 33
+    4:
+      x: 1216
+      "y": 918
+      dimension: 33
+    5:
+      x: 1260
+      "y": 918
+      dimension: 33
+    6:
+      x: 1303
+      "y": 918
+      dimension: 33
+    7:
+      x: 1347
+      "y": 918
+      dimension: 33
+    8:
+      x: 1391
+      "y": 918
+      dimension: 33
+    9:
+      x: 1435
+      "y": 918
+      dimension: 33
+    10:
+      x: 1479
+      "y": 918
+      dimension: 33
+    11:
+      x: 1522
+      "y": 918
+      dimension: 33
+    12:
+      x: 1566
+      "y": 918
+      dimension: 33
+    13:
+      x: 1610
+      "y": 918
+      dimension: 33
+    14:
+      x: 1510
+      "y": 876
+      dimension: 32
+    15:
+      x: 1510
+      "y": 834
+      dimension: 32
+    16:
+      x: 1510
+      "y": 792
+      dimension: 32
+    17:
+      x: 1510
+      "y": 750
+      dimension: 32
+    18:
+      x: 1510
+      "y": 708
+      dimension: 32
+    19:
+      x: 1510
+      "y": 666
+      dimension: 32
+    20:
+      x: 1510
+      "y": 624
+      dimension: 32
+    21:
+      x: 1510
+      "y": 582
+      dimension: 32
+    22:
+      x: 1510
+      "y": 540
+      dimension: 32
+    23:
+      x: 1510
+      "y": 498
+      dimension: 32
+    24:
+      x: 1510
+      "y": 456
+      dimension: 32
+    25:
+      x: 1510
+      "y": 414
+      dimension: 32
+    26:
+      x: 1510
+      "y": 372
+      dimension: 32
+    27:
+      x: 1510
+      "y": 330
+      dimension: 32
+    28:
+      x: 1510
+      "y": 288
+      dimension: 32
+    29:
+      x: 1510
+      "y": 246
+      dimension: 32
+    30:
+      x: 1510
+      "y": 204
+      dimension: 32
+    31:
+      x: 1510
+      "y": 162
+      dimension: 32
+    32:
+      x: 1589
+      "y": 62
+      dimension: 31
+    33:
+      x: 1548
+      "y": 62
+      dimension: 31
+    34:
+      x: 1507
+      "y": 62
+      dimension: 31
+    35:
+      x: 1466
+      "y": 62
+      dimension: 31
+    36:
+      x: 1425
+      "y": 62
+      dimension: 31
+    37:
+      x: 1384
+      "y": 62
+      dimension: 31
+    38:
+      x: 1343
+      "y": 62
+      dimension: 31
+    39:
+      x: 1302
+      "y": 62
+      dimension: 31
+    40:
+      x: 1261
+      "y": 62
+      dimension: 31
+    41:
+      x: 1220
+      "y": 62
+      dimension: 31
+    42:
+      x: 1179
+      "y": 62
+      dimension: 31
+    43:
+      x: 1138
+      "y": 62
+      dimension: 31
+    44:
+      x: 1097
+      "y": 62
+      dimension: 31
+    45:
+      x: 1056
+      "y": 62
+      dimension: 31
+    46:
+      x: 1015
+      "y": 62
+      dimension: 31
+    47:
+      x: 974
+      "y": 62
+      dimension: 31
+    48:
+      x: 933
+      "y": 62
+      dimension: 31
+    49:
+      x: 892
+      "y": 62
+      dimension: 31
+    50:
+      x: 851
+      "y": 62
+      dimension: 31
+    51:
+      x: 810
+      "y": 62
+      dimension: 31
+    52:
+      x: 769
+      "y": 62
+      dimension: 31
+    53:
+      x: 728
+      "y": 62
+      dimension: 31
+    54:
+      x: 687
+      "y": 62
+      dimension: 31
+    55:
+      x: 646
+      "y": 62
+      dimension: 31
+    56:
+      x: 605
+      "y": 62
+      dimension: 31
+    57:
+      x: 564
+      "y": 62
+      dimension: 31
+    58:
+      x: 523
+      "y": 62
+      dimension: 31
+    59:
+      x: 482
+      "y": 62
+      dimension: 31
+    60:
+      x: 441
+      "y": 62
+      dimension: 31
+    61:
+      x: 400
+      "y": 62
+      dimension: 31
+    62:
+      x: 359
+      "y": 62
+      dimension: 31
+    63:
+      x: 318
+      "y": 62
+      dimension: 31
+    64:
+      x: 290
+      "y": 162
+      dimension: 32
+    65:
+      x: 290
+      "y": 204
+      dimension: 32
+    66:
+      x: 290
+      "y": 246
+      dimension: 32
+    67:
+      x: 290
+      "y": 288
+      dimension: 32
+    68:
+      x: 290
+      "y": 330
+      dimension: 32
+    69:
+      x: 290
+      "y": 372
+      dimension: 32
+    70:
+      x: 290
+      "y": 414
+      dimension: 32
+    71:
+      x: 290
+      "y": 456
+      dimension: 32
+    72:
+      x: 290
+      "y": 498
+      dimension: 32
+    73:
+      x: 290
+      "y": 540
+      dimension: 32
+    74:
+      x: 290
+      "y": 582
+      dimension: 32
+    75:
+      x: 290
+      "y": 624
+      dimension: 32
+    76:
+      x: 290
+      "y": 666
+      dimension: 32
+    77:
+      x: 290
+      "y": 708
+      dimension: 32
+    78:
+      x: 290
+      "y": 750
+      dimension: 32
+    79:
+      x: 290
+      "y": 792
+      dimension: 32
+    80:
+      x: 290
+      "y": 834
+      dimension: 32
+    81:
+      x: 290
+      "y": 876
+      dimension: 32
+    82:
+      x: 290
+      "y": 918
+      dimension: 33
+    83:
+      x: 333
+      "y": 918
+      dimension: 33
+    84:
+      x: 377
+      "y": 918
+      dimension: 33
+    85:
+      x: 421
+      "y": 918
+      dimension: 33
+    86:
+      x: 465
+      "y": 918
+      dimension: 33
+    87:
+      x: 508
+      "y": 918
+      dimension: 33
+    88:
+      x: 552
+      "y": 918
+      dimension: 33
+    89:
+      x: 596
+      "y": 918
+      dimension: 33
+    90:
+      x: 640
+      "y": 918
+      dimension: 33
+    91:
+      x: 684
+      "y": 918
+      dimension: 33
+    92:
+      x: 727
+      "y": 918
+      dimension: 33
+    93:
+      x: 771
+      "y": 918
+      dimension: 33
+    94:
+      x: 815
+      "y": 918
+      dimension: 33
+extendedLog: false
+configVersion: "1.11.6"

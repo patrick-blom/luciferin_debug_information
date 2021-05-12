@@ -1,0 +1,30 @@
+[Instance #1] 2021-05-11 21:26:39,180 DEBUG org.dpsoftware.JavaFXStarter [main] Starting default instance
+[Instance #1] 2021-05-11 21:26:39,511 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-11 21:26:39,608 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-11 21:26:39,613 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-11 21:26:39,614 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path from spawn=/opt/fireflyluciferin/bin/FireflyLuciferin
+[Instance #1] 2021-05-11 21:26:39,614 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-11 21:26:40,032 DEBUG org.dpsoftware.JavaFXStarter [main] Starting instance #: 2
+[Instance #2] 2021-05-11 21:26:40,360 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #2] 2021-05-11 21:26:40,459 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-11 21:26:40,468 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-11 21:26:40,485 INFO org.dpsoftware.grabber.ImageProcessor [JavaFX Application Thread] GStreamer path in use=opt/fireflyluciferin/lib/app/classes
+[Instance #2] 2021-05-11 21:26:41,059 INFO org.dpsoftware.managers.MQTTManager [JavaFX Application Thread] Connected to MQTT Server
+[Instance #2] 2021-05-11 21:26:41,969 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #2] 2021-05-11 21:26:41,982 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-11 21:26:41,991 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-11 21:26:44,621 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-11 21:26:44,622 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path from spawn=/opt/fireflyluciferin/bin/FireflyLuciferin
+[Instance #1] 2021-05-11 21:26:44,622 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-11 21:26:45,132 DEBUG org.dpsoftware.JavaFXStarter [main] Starting instance #: 1
+[Instance #1] 2021-05-11 21:26:45,475 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-11 21:26:45,568 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-11 21:26:45,585 INFO org.dpsoftware.grabber.ImageProcessor [JavaFX Application Thread] GStreamer path in use=opt/fireflyluciferin/lib/app/classes
+[Instance #1] 2021-05-11 21:26:46,120 INFO org.dpsoftware.managers.MQTTManager [JavaFX Application Thread] Connected to MQTT Server
+[Instance #1] 2021-05-11 21:26:46,755 DEBUG org.dpsoftware.managers.UpgradeManager [JavaFX Application Thread] Checking for Firefly Luciferin Update
+[Instance #1] 2021-05-11 21:26:47,658 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-11 21:26:47,682 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-11 21:26:56,592 DEBUG org.dpsoftware.managers.UpgradeManager [pool-3-thread-1] Checking for Glow Worm Luciferin Update
+[Instance #1] 2021-05-11 21:27:02,273 DEBUG org.dpsoftware.managers.UpgradeManager [pool-3-thread-1] Checking for Glow Worm Luciferin Update
+[Instance #2] 2021-05-11 21:27:07,589 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Starting a new pipeline
+[Instance #1] 2021-05-11 21:27:10,662 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Starting a new pipeline
