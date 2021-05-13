@@ -1,0 +1,225 @@
+[Instance #1] 2021-05-13 11:10:59,328 DEBUG org.dpsoftware.JavaFXStarter [main] Starting default instance
+[Instance #1] 2021-05-13 11:10:59,690 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-13 11:10:59,790 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 11:10:59,801 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 11:10:59,802 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path from spawn=/opt/fireflyluciferin/bin/FireflyLuciferin
+[Instance #1] 2021-05-13 11:10:59,803 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 11:11:00,228 DEBUG org.dpsoftware.JavaFXStarter [main] Starting instance #: 2
+[Instance #2] 2021-05-13 11:11:00,494 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #2] 2021-05-13 11:11:00,574 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-13 11:11:00,584 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-13 11:11:00,605 INFO org.dpsoftware.grabber.ImageProcessor [JavaFX Application Thread] GStreamer path in use=opt/fireflyluciferin/lib/app/classes
+[Instance #2] 2021-05-13 11:11:01,368 INFO org.dpsoftware.managers.MQTTManager [JavaFX Application Thread] Connected to MQTT Server
+[Instance #2] 2021-05-13 11:11:02,605 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #2] 2021-05-13 11:11:02,620 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-13 11:11:02,628 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 11:11:04,813 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 11:11:04,813 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path from spawn=/opt/fireflyluciferin/bin/FireflyLuciferin
+[Instance #1] 2021-05-13 11:11:04,814 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 11:11:05,307 DEBUG org.dpsoftware.JavaFXStarter [main] Starting instance #: 1
+[Instance #1] 2021-05-13 11:11:05,571 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-13 11:11:05,662 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 11:11:05,680 INFO org.dpsoftware.grabber.ImageProcessor [JavaFX Application Thread] GStreamer path in use=opt/fireflyluciferin/lib/app/classes
+[Instance #1] 2021-05-13 11:11:06,321 INFO org.dpsoftware.managers.MQTTManager [JavaFX Application Thread] Connected to MQTT Server
+[Instance #1] 2021-05-13 11:11:06,937 DEBUG org.dpsoftware.managers.UpgradeManager [JavaFX Application Thread] Checking for Firefly Luciferin Update
+[Instance #1] 2021-05-13 11:11:07,868 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-13 11:11:07,887 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 11:11:08,442 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:09,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:10,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:11,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:12,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:13,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:14,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:15,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:16,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #2] 2021-05-13 11:11:17,040 DEBUG org.dpsoftware.managers.UpgradeManager [pool-3-thread-1] Checking for Glow Worm Luciferin Update
+[Instance #1] 2021-05-13 11:11:17,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #2] 2021-05-13 11:11:18,043 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:18,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #2] 2021-05-13 11:11:19,042 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:19,441 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 11:11:20,765 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Starting a new pipeline
+[Instance #2] 2021-05-13 11:11:21,697 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Starting a new pipeline
+[Instance #2] 2021-05-13 11:11:22,041 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 0.6 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #1] 2021-05-13 11:11:22,435 DEBUG org.dpsoftware.managers.UpgradeManager [pool-3-thread-1] Checking for Glow Worm Luciferin Update
+[Instance #1] 2021-05-13 11:11:22,440 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 1.6 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #1] 2021-05-13 11:11:22,767 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Restarting pipeline
+[Instance #2] 2021-05-13 11:11:27,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.6 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #1] 2021-05-13 11:11:27,437 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.4 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #2] 2021-05-13 11:11:32,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.4 FPS *--  --* Consuming @ 3.7 FPS *-- 
+[Instance #1] 2021-05-13 11:11:32,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.6 FPS *--  --* Consuming @ 4.0 FPS *-- 
+[Instance #2] 2021-05-13 11:11:37,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.2 FPS *--  --* Consuming @ 3.7 FPS *-- 
+[Instance #1] 2021-05-13 11:11:37,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.2 FPS *--  --* Consuming @ 4.0 FPS *-- 
+[Instance #2] 2021-05-13 11:11:42,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.6 FPS *--  --* Consuming @ 4.5 FPS *-- 
+[Instance #1] 2021-05-13 11:11:42,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.4 FPS *--  --* Consuming @ 4.6 FPS *-- 
+[Instance #2] 2021-05-13 11:11:47,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.0 FPS *--  --* Consuming @ 4.5 FPS *-- 
+[Instance #1] 2021-05-13 11:11:47,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.2 FPS *--  --* Consuming @ 4.6 FPS *-- 
+[Instance #2] 2021-05-13 11:11:52,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.6 FPS *--  --* Consuming @ 5.3 FPS *-- 
+[Instance #1] 2021-05-13 11:11:52,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.8 FPS *--  --* Consuming @ 5.1 FPS *-- 
+[Instance #2] 2021-05-13 11:11:57,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 11.4 FPS *--  --* Consuming @ 5.3 FPS *-- 
+[Instance #1] 2021-05-13 11:11:57,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 10.2 FPS *--  --* Consuming @ 5.1 FPS *-- 
+[Instance #2] 2021-05-13 11:12:02,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 14.0 FPS *--  --* Consuming @ 10.7 FPS *-- 
+[Instance #1] 2021-05-13 11:12:02,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 11.8 FPS *--  --* Consuming @ 9.6 FPS *-- 
+[Instance #2] 2021-05-13 11:12:07,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 17.2 FPS *--  --* Consuming @ 10.7 FPS *-- 
+[Instance #1] 2021-05-13 11:12:07,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 15.2 FPS *--  --* Consuming @ 9.6 FPS *-- 
+[Instance #2] 2021-05-13 11:12:12,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 16.4 FPS *--  --* Consuming @ 16.8 FPS *-- 
+[Instance #1] 2021-05-13 11:12:12,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 13.2 FPS *--  --* Consuming @ 14.1 FPS *-- 
+[Instance #2] 2021-05-13 11:12:17,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.0 FPS *--  --* Consuming @ 16.8 FPS *-- 
+[Instance #1] 2021-05-13 11:12:17,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.0 FPS *--  --* Consuming @ 14.1 FPS *-- 
+[Instance #2] 2021-05-13 11:12:22,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.0 FPS *--  --* Consuming @ 9.6 FPS *-- 
+[Instance #1] 2021-05-13 11:12:22,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.8 FPS *--  --* Consuming @ 8.2 FPS *-- 
+[Instance #2] 2021-05-13 11:12:27,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 12.4 FPS *--  --* Consuming @ 9.6 FPS *-- 
+[Instance #1] 2021-05-13 11:12:27,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 11.8 FPS *--  --* Consuming @ 8.2 FPS *-- 
+[Instance #2] 2021-05-13 11:12:32,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.4 FPS *--  --* Consuming @ 8.2 FPS *-- 
+[Instance #1] 2021-05-13 11:12:32,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.2 FPS *--  --* Consuming @ 7.4 FPS *-- 
+[Instance #2] 2021-05-13 11:12:37,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.0 FPS *--  --* Consuming @ 8.2 FPS *-- 
+[Instance #1] 2021-05-13 11:12:37,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.0 FPS *--  --* Consuming @ 7.4 FPS *-- 
+[Instance #2] 2021-05-13 11:12:42,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.8 FPS *--  --* Consuming @ 4.4 FPS *-- 
+[Instance #1] 2021-05-13 11:12:42,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.0 FPS *--  --* Consuming @ 4.4 FPS *-- 
+[Instance #2] 2021-05-13 11:12:47,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.2 FPS *--  --* Consuming @ 4.4 FPS *-- 
+[Instance #1] 2021-05-13 11:12:47,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.4 FPS *--  --* Consuming @ 4.4 FPS *-- 
+[Instance #2] 2021-05-13 11:12:52,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.0 FPS *--  --* Consuming @ 3.8 FPS *-- 
+[Instance #1] 2021-05-13 11:12:52,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.0 FPS *--  --* Consuming @ 3.6 FPS *-- 
+[Instance #2] 2021-05-13 11:12:57,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.0 FPS *--  --* Consuming @ 3.8 FPS *-- 
+[Instance #1] 2021-05-13 11:12:57,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.2 FPS *--  --* Consuming @ 3.6 FPS *-- 
+[Instance #2] 2021-05-13 11:13:02,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.6 FPS *--  --* Consuming @ 3.9 FPS *-- 
+[Instance #1] 2021-05-13 11:13:02,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.2 FPS *--  --* Consuming @ 3.8 FPS *-- 
+[Instance #2] 2021-05-13 11:13:07,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.8 FPS *--  --* Consuming @ 3.9 FPS *-- 
+[Instance #1] 2021-05-13 11:13:07,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.8 FPS *--  --* Consuming @ 3.8 FPS *-- 
+[Instance #2] 2021-05-13 11:13:12,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.0 FPS *--  --* Consuming @ 7.0 FPS *-- 
+[Instance #1] 2021-05-13 11:13:12,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.2 FPS *--  --* Consuming @ 6.2 FPS *-- 
+[Instance #2] 2021-05-13 11:13:17,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.8 FPS *--  --* Consuming @ 7.0 FPS *-- 
+[Instance #1] 2021-05-13 11:13:17,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.0 FPS *--  --* Consuming @ 6.2 FPS *-- 
+[Instance #2] 2021-05-13 11:13:22,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.4 FPS *--  --* Consuming @ 4.4 FPS *-- 
+[Instance #1] 2021-05-13 11:13:22,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.2 FPS *--  --* Consuming @ 4.3 FPS *-- 
+[Instance #2] 2021-05-13 11:13:27,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.4 FPS *--  --* Consuming @ 4.4 FPS *-- 
+[Instance #1] 2021-05-13 11:13:27,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.4 FPS *--  --* Consuming @ 4.3 FPS *-- 
+[Instance #2] 2021-05-13 11:13:32,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 8.6 FPS *--  --* Consuming @ 6.6 FPS *-- 
+[Instance #1] 2021-05-13 11:13:32,437 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.6 FPS *--  --* Consuming @ 6.0 FPS *-- 
+[Instance #2] 2021-05-13 11:13:37,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.8 FPS *--  --* Consuming @ 6.6 FPS *-- 
+[Instance #1] 2021-05-13 11:13:37,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.2 FPS *--  --* Consuming @ 6.0 FPS *-- 
+[Instance #2] 2021-05-13 11:13:42,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 16.8 FPS *--  --* Consuming @ 9.6 FPS *-- 
+[Instance #1] 2021-05-13 11:13:42,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 14.8 FPS *--  --* Consuming @ 9.4 FPS *-- 
+[Instance #2] 2021-05-13 11:13:47,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 13.0 FPS *--  --* Consuming @ 9.6 FPS *-- 
+[Instance #1] 2021-05-13 11:13:47,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 11.6 FPS *--  --* Consuming @ 9.4 FPS *-- 
+[Instance #2] 2021-05-13 11:13:52,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.4 FPS *--  --* Consuming @ 14.3 FPS *-- 
+[Instance #1] 2021-05-13 11:13:52,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.8 FPS *--  --* Consuming @ 11.6 FPS *-- 
+[Instance #2] 2021-05-13 11:13:57,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.8 FPS *--  --* Consuming @ 14.3 FPS *-- 
+[Instance #1] 2021-05-13 11:13:57,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.4 FPS *--  --* Consuming @ 11.6 FPS *-- 
+[Instance #2] 2021-05-13 11:14:02,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.0 FPS *--  --* Consuming @ 3.3 FPS *-- 
+[Instance #1] 2021-05-13 11:14:02,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.2 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #2] 2021-05-13 11:14:07,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.6 FPS *--  --* Consuming @ 3.3 FPS *-- 
+[Instance #1] 2021-05-13 11:14:07,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.6 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #2] 2021-05-13 11:14:12,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #1] 2021-05-13 11:14:12,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.6 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #2] 2021-05-13 11:14:17,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.8 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #1] 2021-05-13 11:14:17,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.2 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #2] 2021-05-13 11:14:22,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #1] 2021-05-13 11:14:22,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #2] 2021-05-13 11:14:27,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #1] 2021-05-13 11:14:27,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #2] 2021-05-13 11:14:32,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.4 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #1] 2021-05-13 11:14:32,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.8 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #2] 2021-05-13 11:14:37,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.0 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #1] 2021-05-13 11:14:37,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.0 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #2] 2021-05-13 11:14:42,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 1.9 FPS *-- 
+[Instance #1] 2021-05-13 11:14:42,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 1.9 FPS *-- 
+[Instance #2] 2021-05-13 11:14:47,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.4 FPS *--  --* Consuming @ 1.9 FPS *-- 
+[Instance #1] 2021-05-13 11:14:47,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.0 FPS *--  --* Consuming @ 1.9 FPS *-- 
+[Instance #2] 2021-05-13 11:14:52,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.4 FPS *--  --* Consuming @ 5.7 FPS *-- 
+[Instance #1] 2021-05-13 11:14:52,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.0 FPS *--  --* Consuming @ 5.4 FPS *-- 
+[Instance #2] 2021-05-13 11:14:57,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.8 FPS *--  --* Consuming @ 5.7 FPS *-- 
+[Instance #1] 2021-05-13 11:14:57,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.8 FPS *--  --* Consuming @ 5.4 FPS *-- 
+[Instance #2] 2021-05-13 11:15:02,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.6 FPS *--  --* Consuming @ 4.1 FPS *-- 
+[Instance #1] 2021-05-13 11:15:02,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.8 FPS *--  --* Consuming @ 3.7 FPS *-- 
+[Instance #2] 2021-05-13 11:15:07,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 4.1 FPS *-- 
+[Instance #1] 2021-05-13 11:15:07,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 3.7 FPS *-- 
+[Instance #2] 2021-05-13 11:15:12,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.6 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #1] 2021-05-13 11:15:12,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #2] 2021-05-13 11:15:17,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.8 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #1] 2021-05-13 11:15:17,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.6 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #2] 2021-05-13 11:15:22,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.0 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #1] 2021-05-13 11:15:22,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.0 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #2] 2021-05-13 11:15:27,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #1] 2021-05-13 11:15:27,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #2] 2021-05-13 11:15:32,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.6 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #1] 2021-05-13 11:15:32,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.0 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #2] 2021-05-13 11:15:37,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.0 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #1] 2021-05-13 11:15:37,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.0 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #2] 2021-05-13 11:15:42,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.2 FPS *--  --* Consuming @ 4.5 FPS *-- 
+[Instance #1] 2021-05-13 11:15:42,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.2 FPS *--  --* Consuming @ 4.3 FPS *-- 
+[Instance #2] 2021-05-13 11:15:47,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.8 FPS *--  --* Consuming @ 4.5 FPS *-- 
+[Instance #1] 2021-05-13 11:15:47,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.4 FPS *--  --* Consuming @ 4.3 FPS *-- 
+[Instance #2] 2021-05-13 11:15:52,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #1] 2021-05-13 11:15:52,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.2 FPS *--  --* Consuming @ 2.6 FPS *-- 
+[Instance #2] 2021-05-13 11:15:57,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #1] 2021-05-13 11:15:57,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 2.6 FPS *-- 
+[Instance #2] 2021-05-13 11:16:02,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.8 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #1] 2021-05-13 11:16:02,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 5.0 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #2] 2021-05-13 11:16:07,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 3.2 FPS *-- 
+[Instance #1] 2021-05-13 11:16:07,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 1.8 FPS *--  --* Consuming @ 3.1 FPS *-- 
+[Instance #2] 2021-05-13 11:16:12,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #1] 2021-05-13 11:16:12,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 2.4 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #2] 2021-05-13 11:16:17,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.6 FPS *--  --* Consuming @ 2.9 FPS *-- 
+[Instance #1] 2021-05-13 11:16:17,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.2 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #2] 2021-05-13 11:16:22,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.6 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #1] 2021-05-13 11:16:22,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 4.8 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #2] 2021-05-13 11:16:27,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.8 FPS *--  --* Consuming @ 3.0 FPS *-- 
+[Instance #1] 2021-05-13 11:16:27,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 6.8 FPS *--  --* Consuming @ 2.8 FPS *-- 
+[Instance #2] 2021-05-13 11:16:32,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 19.8 FPS *--  --* Consuming @ 10.4 FPS *-- 
+[Instance #1] 2021-05-13 11:16:32,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 16.4 FPS *--  --* Consuming @ 9.2 FPS *-- 
+[Instance #2] 2021-05-13 11:16:37,040 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 13.4 FPS *--  --* Consuming @ 10.4 FPS *-- 
+[Instance #1] 2021-05-13 11:16:37,436 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 10.6 FPS *--  --* Consuming @ 9.2 FPS *-- 
+[Instance #1] 2021-05-13 16:15:22,276 DEBUG org.dpsoftware.JavaFXStarter [main] Starting default instance
+[Instance #1] 2021-05-13 16:15:22,557 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-13 16:15:22,646 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 16:15:22,653 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 16:15:22,654 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path from spawn=/opt/fireflyluciferin/bin/FireflyLuciferin
+[Instance #1] 2021-05-13 16:15:22,654 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 16:15:23,060 DEBUG org.dpsoftware.JavaFXStarter [main] Starting instance #: 2
+[Instance #2] 2021-05-13 16:15:23,374 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #2] 2021-05-13 16:15:23,458 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-13 16:15:23,469 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-13 16:15:23,487 INFO org.dpsoftware.grabber.ImageProcessor [JavaFX Application Thread] GStreamer path in use=opt/fireflyluciferin/lib/app/classes
+[Instance #2] 2021-05-13 16:15:24,032 INFO org.dpsoftware.managers.MQTTManager [JavaFX Application Thread] Connected to MQTT Server
+[Instance #2] 2021-05-13 16:15:25,057 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #2] 2021-05-13 16:15:25,073 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #2] 2021-05-13 16:15:25,078 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 16:15:27,662 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 16:15:27,663 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path from spawn=/opt/fireflyluciferin/bin/FireflyLuciferin
+[Instance #1] 2021-05-13 16:15:27,663 DEBUG org.dpsoftware.NativeExecutor [JavaFX Application Thread] Installation path=/opt/fireflyluciferin/lib/app/FireflyLuciferin-jar-with-dependencies.jar
+[Instance #1] 2021-05-13 16:15:28,121 DEBUG org.dpsoftware.JavaFXStarter [main] Starting instance #: 1
+[Instance #1] 2021-05-13 16:15:28,394 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-13 16:15:28,490 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 16:15:28,507 INFO org.dpsoftware.grabber.ImageProcessor [JavaFX Application Thread] GStreamer path in use=opt/fireflyluciferin/lib/app/classes
+[Instance #1] 2021-05-13 16:15:29,048 INFO org.dpsoftware.managers.MQTTManager [JavaFX Application Thread] Connected to MQTT Server
+[Instance #1] 2021-05-13 16:15:29,655 DEBUG org.dpsoftware.managers.UpgradeManager [JavaFX Application Thread] Checking for Firefly Luciferin Update
+[Instance #1] 2021-05-13 16:15:30,788 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] /home/patrick/Documents/FireflyLuciferin already exists
+[Instance #1] 2021-05-13 16:15:30,817 INFO org.dpsoftware.managers.StorageManager [JavaFX Application Thread] Configuration OK.
+[Instance #1] 2021-05-13 16:15:31,187 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:32,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:33,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:34,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:35,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:36,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:37,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:38,186 DEBUG org.dpsoftware.managers.PipelineManager [pool-8-thread-1] Waiting device for my instance...
+[Instance #1] 2021-05-13 16:15:39,583 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Starting a new pipeline
+[Instance #2] 2021-05-13 16:15:39,620 DEBUG org.dpsoftware.managers.UpgradeManager [pool-3-thread-1] Checking for Glow Worm Luciferin Update
+[Instance #1] 2021-05-13 16:15:40,210 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 1.4 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #2] 2021-05-13 16:15:42,569 DEBUG org.dpsoftware.FireflyLuciferin [pool-2-thread-2] Starting a new pipeline
+[Instance #2] 2021-05-13 16:15:44,625 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 3.0 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #1] 2021-05-13 16:15:45,183 DEBUG org.dpsoftware.managers.UpgradeManager [pool-3-thread-1] Checking for Glow Worm Luciferin Update
+[Instance #1] 2021-05-13 16:15:45,184 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 7.8 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #2] 2021-05-13 16:15:49,621 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 9.0 FPS *--  --* Consuming @ 0.0 FPS *-- 
+[Instance #1] 2021-05-13 16:15:50,184 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 8.0 FPS *--  --* Consuming @ 6.0 FPS *-- 
+[Instance #2] 2021-05-13 16:15:54,621 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 11.0 FPS *--  --* Consuming @ 6.3 FPS *-- 
+[Instance #1] 2021-05-13 16:15:55,184 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 13.0 FPS *--  --* Consuming @ 6.0 FPS *-- 
+[Instance #2] 2021-05-13 16:15:59,621 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 19.6 FPS *--  --* Consuming @ 6.3 FPS *-- 
+[Instance #1] 2021-05-13 16:16:00,184 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 19.4 FPS *--  --* Consuming @ 13.9 FPS *-- 
+[Instance #2] 2021-05-13 16:16:04,621 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 17.0 FPS *--  --* Consuming @ 15.6 FPS *-- 
+[Instance #1] 2021-05-13 16:16:05,184 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 16.4 FPS *--  --* Consuming @ 13.9 FPS *-- 
+[Instance #2] 2021-05-13 16:16:09,621 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 16.6 FPS *--  --* Consuming @ 15.6 FPS *-- 
+[Instance #1] 2021-05-13 16:16:10,184 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 16.4 FPS *--  --* Consuming @ 16.9 FPS *-- 
+[Instance #2] 2021-05-13 16:16:14,621 DEBUG org.dpsoftware.FireflyLuciferin [pool-4-thread-1]  --* Producing @ 12.6 FPS *--  --* Consuming @ 17.3 FPS *-- 
